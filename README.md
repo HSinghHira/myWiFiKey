@@ -27,9 +27,13 @@ myWiFi Key is compatible with following Windows Operating Systems:
  - [Github](https://github.com/HSinghHira)
  - [Tumblr](https://hsinghhira.tumblr.com)
  - [Blog](https://www.ultimatepctech.com)
+ 
 
 ### <i class="icon-file"></i> Donate
 
 If you find this application useful then please buy me a coffee. It will encourage me to build more applications like this.
 
 **My Paypal ID:** deepsinghhira@gmail.com
+
+
+[![N|Solid](http://s1.softpedia-static.com/_img/sp100free.png)](http://www.softpedia.com/get/Security/Decrypting-Decoding/myWiFi-Key.shtml#status)
